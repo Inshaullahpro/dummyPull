@@ -1,1 +1,2 @@
-Testing data
+=> git "clone repositry-url" : it is used to get other client/dev repositry data into your local machine
+                               it is also used to get your online repositry project into local machine 
