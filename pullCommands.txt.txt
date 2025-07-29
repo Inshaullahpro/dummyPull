@@ -3,3 +3,5 @@
 => git pull : it is used to get updated data from github. On Github the data/code can be change from client side or other developer
 
 => Best Practice: before starting your work always first take pull than start.
+
+=> it is my own data
